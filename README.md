@@ -1,1 +1,2 @@
-# Credit-Card-Churn-Detction
+# Credit-Card-Churn-Detection
+
